@@ -7,7 +7,7 @@
 
 ![temp conversion](https://github.com/user-attachments/assets/5cdce7e1-eda3-4d45-b325-3fc60f7fcc93)
 
-- [Demo Project](https://mhdigholami.github.io/Note-App/) ✅
+- [Demo Project](https://mhdigholami.github.io/CoffeeShop-Website/) ✅
 
 - Developed by Mahdi Gholami
 
