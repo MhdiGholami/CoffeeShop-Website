@@ -5,13 +5,13 @@
 
 📸Gallery
 
-![temp conversion](https://github.com/user-attachments/assets/5fe506e3-c3fe-4fad-ba00-ef7e0f1ff36e)
-
 ![temp conversion](https://github.com/user-attachments/assets/1e440c23-843d-486d-9b30-d093cf003eab)
 
 ![temp conversion](https://github.com/user-attachments/assets/88c2796e-5a97-42eb-b82a-3093ea16a5b7)
 
 ![temp conversion](https://github.com/user-attachments/assets/516580dc-9ce0-4083-8b72-2a84bcc9ba0b)
+
+![temp conversion](https://github.com/user-attachments/assets/67ca5ef8-2cc0-4711-aa10-c1d445b468e5)
 
 - [Demo Project](https://mhdigholami.github.io/CoffeeShop-Website/) ✅
 
