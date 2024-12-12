@@ -13,8 +13,6 @@
 
 ![temp conversion](https://github.com/user-attachments/assets/516580dc-9ce0-4083-8b72-2a84bcc9ba0b)
 
-![temp conversion](https://github.com/user-attachments/assets/67ca5ef8-2cc0-4711-aa10-c1d445b468e5)
-
 - [Demo Project](https://mhdigholami.github.io/CoffeeShop-Website/) ✅
 
 - Developed by Mahdi Gholami
