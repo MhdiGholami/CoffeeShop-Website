@@ -5,7 +5,7 @@
 
 📸Gallery
 
-![temp conversion](https://github.com/user-attachments/assets/3a2daa53-c37a-46de-ac56-80675de12986)
+![temp conversion](https://github.com/user-attachments/assets/7f8166ed-ce9e-44ba-8c62-ecf3a97aaac1)
 
 - [Demo Project](https://mhdigholami.github.io/CoffeeShop-Website/) ✅
 
